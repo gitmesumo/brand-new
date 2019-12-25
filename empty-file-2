@@ -1,0 +1,6 @@
+//This is the stupidest fucking file EVER
+
+// empty-file-2
+function subtract(a, b) {
+    return a - b
+};
