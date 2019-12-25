@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This shit is really stupid!! Like smelly turd sammiches!
+=======
+This shit is really stupid!!
+>>>>>>> dev
 
 NTFS & HFS 9.6
 
