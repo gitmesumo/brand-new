@@ -1,3 +1,5 @@
+This shit is really stupid!!
+
 NTFS & HFS 9.6
 
 Support for Kernel versions from 2.6.36 up to 4.20.x
